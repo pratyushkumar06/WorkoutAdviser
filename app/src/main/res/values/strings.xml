@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Workout Adviser</string>
+    <string-array name="body_parts">
+        <item>Chest</item>
+        <item>Back</item>
+        <item>Biceps</item>
+        <item>Triceps</item>
+        <item>Shoulders</item>
+        <item>Legs</item>
+    </string-array>
+</resources>
